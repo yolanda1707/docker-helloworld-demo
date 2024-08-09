@@ -5,7 +5,7 @@
 
 
 # Set the base image to nginx
-FROM nginx
+FROM iad.ocir.io/ocuocictrng5/nginx:latest
 
 # File Author / Maintainer
 MAINTAINER Mahendra Mehra
